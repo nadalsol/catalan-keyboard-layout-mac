@@ -1,6 +1,4 @@
-# Catalan Keyboard Layout
-
-## Visca Catalunya!
+## Catalan Keyboard Layout
 
 ![Input Sources Menu](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/input-sources-menu.png)
 
@@ -13,33 +11,33 @@ $ cd catalan-mac-keyboard-layout/
 
 Catalan layout with **senyera** flag:
 
-![Senyera Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-senyera.png)
-
 ```
 $ sudo cp Catalan.* /Library/Keyboard\ Layouts/
 ```
 
-Catalan layout with **estelada** flag:
+![Senyera Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-senyera.png)
 
-![Estelada Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-estelada.png)
+Catalan layout with **estelada** flag:
 
 ```
 $ sudo cp Catalan\ \(Estelada\).* /Library/Keyboard\ Layouts/
 ```
 
-Catalan layout with **tricentenari** flag:
+![Estelada Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-estelada.png)
 
-![Tricentenari Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-tricentenari.png)
+Catalan layout with **tricentenari** flag:
 
 ```
 $ sudo cp Catalan\ \(Tricentenari\).* /Library/Keyboard\ Layouts/
 ```
 
-## Modify the layout
+![Tricentenari Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-tricentenari.png)
+
+### Modify the layout
 
 Feel the need to update the layout to your liking by adding in the Catalan language characters? Download the keyboard layout tool [Ukelele](http://scripts.sil.org/ukelele) and have at it.
 
-## Inspiration
+### Resources
 
 * Based on the [Ukrainian-Russian](https://github.com/palmerc/Ukrainian-Russian) repo, by [palmerc](https://github.com/palmerc).
 * [How to make a custom keyboard layout in OS X?](https://superuser.com/questions/665494/how-to-make-a-custom-keyboard-layout-in-os-x).
