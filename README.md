@@ -1,6 +1,6 @@
 ## Catalan Keyboard Layout
 
-![Input Sources Menu](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/input-sources-menu.png)
+![Input Sources Menu](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/macos-input-sources-menu.png)
 
 Tired of staring at the Spanish flag while the Catalan independentists are being persecuted by the Government of Spain, but still need to type with different keyboards including the Spanish character set? Then just copy the `.keylayout` and `.icns` file into `/Library/Keyboard\ Layouts/` on your Mac! You probably need to reboot and then you may choose the layout under "System Preferences > Keyboard > Input Sources".
 
