@@ -8,7 +8,7 @@ Wishing to stare at the Catalan flag, but still need to type with different keyb
 
 ```
 $ git clone https://github.com/nadalsol/catalan-keyboard-layout-mac.git
-$ cd catalan-mac-keyboard-layout/
+$ cd catalan-keyboard-layout-mac/
 $ sudo cp Catalan.* /Library/Keyboard\ Layouts/
 ```
 
@@ -18,7 +18,7 @@ $ sudo cp Catalan.* /Library/Keyboard\ Layouts/
 
 ```
 $ git clone https://github.com/nadalsol/catalan-keyboard-layout-mac.git
-$ cd catalan-mac-keyboard-layout/
+$ cd catalan-keyboard-layout-mac/
 $ sudo cp Catalan\ \(Estelada\).* /Library/Keyboard\ Layouts/
 ```
 
@@ -28,7 +28,7 @@ $ sudo cp Catalan\ \(Estelada\).* /Library/Keyboard\ Layouts/
 
 ```
 $ git clone https://github.com/nadalsol/catalan-keyboard-layout-mac.git
-$ cd catalan-mac-keyboard-layout/
+$ cd catalan-keyboard-layout-mac/
 $ sudo cp Catalan\ \(Tricentenari\).* /Library/Keyboard\ Layouts/
 ```
 
