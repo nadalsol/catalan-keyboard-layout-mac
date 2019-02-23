@@ -2,32 +2,33 @@
 
 ![Input Sources Menu](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/macos-input-sources-menu.png)
 
-Tired of staring at the Spanish flag, but still need to type with different keyboards including the Spanish character set? Then just copy the `.keylayout` and `.icns` file into `/Library/Keyboard\ Layouts/` on your Mac! You probably need to reboot and then you may choose the layout under "System Preferences > Keyboard > Input Sources".
+Wishing to stare at the Catalan flag, but still need to type with different keyboard character sets? Then just copy the `.keylayout` and `.icns` file into `/Library/Keyboard\ Layouts/` on your Mac! You probably need to reboot and then you may choose the layout under "System Preferences > Keyboard > Input Sources".
+
+**Catalan layout with _senyera_ flag**
 
 ```
 $ git clone https://github.com/nadalsol/catalan-mac-keyboard-layout.git
 $ cd catalan-mac-keyboard-layout/
-```
-
-Catalan layout with **senyera** flag:
-
-```
 $ sudo cp Catalan.* /Library/Keyboard\ Layouts/
 ```
 
 ![Senyera Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-senyera.png)
 
-Catalan layout with **estelada** flag:
+**Catalan layout with _estelada_ flag**
 
 ```
+$ git clone https://github.com/nadalsol/catalan-mac-keyboard-layout.git
+$ cd catalan-mac-keyboard-layout/
 $ sudo cp Catalan\ \(Estelada\).* /Library/Keyboard\ Layouts/
 ```
 
 ![Estelada Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-estelada.png)
 
-Catalan layout with **tricentenari** flag:
+**Catalan layout with _tricentenari_ flag**
 
 ```
+$ git clone https://github.com/nadalsol/catalan-mac-keyboard-layout.git
+$ cd catalan-mac-keyboard-layout/
 $ sudo cp Catalan\ \(Tricentenari\).* /Library/Keyboard\ Layouts/
 ```
 
