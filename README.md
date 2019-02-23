@@ -1,38 +1,38 @@
 ## Catalan Keyboard Layout for Mac
 
-![Input Sources Menu](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/macos-input-sources-menu.png)
+![Input Sources Menu](https://raw.githubusercontent.com/nadalsol/catalan-keyboard-layout-mac/master/macos-input-sources-menu.png)
 
 Wishing to stare at the Catalan flag, but still need to type with different keyboard character sets? Then just copy the `.keylayout` and `.icns` file into `/Library/Keyboard\ Layouts/` on your Mac! You probably need to reboot and then you may choose the layout under "System Preferences > Keyboard > Input Sources".
 
 **Catalan layout with _senyera_ flag**
 
 ```
-$ git clone https://github.com/nadalsol/catalan-mac-keyboard-layout.git
+$ git clone https://github.com/nadalsol/catalan-keyboard-layout-mac.git
 $ cd catalan-mac-keyboard-layout/
 $ sudo cp Catalan.* /Library/Keyboard\ Layouts/
 ```
 
-![Senyera Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-senyera.png)
+![Senyera Flag](https://raw.githubusercontent.com/nadalsol/catalan-keyboard-layout-mac/master/flag-senyera.png)
 
 **Catalan layout with _estelada_ flag**
 
 ```
-$ git clone https://github.com/nadalsol/catalan-mac-keyboard-layout.git
+$ git clone https://github.com/nadalsol/catalan-keyboard-layout-mac.git
 $ cd catalan-mac-keyboard-layout/
 $ sudo cp Catalan\ \(Estelada\).* /Library/Keyboard\ Layouts/
 ```
 
-![Estelada Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-estelada.png)
+![Estelada Flag](https://raw.githubusercontent.com/nadalsol/catalan-keyboard-layout-mac/master/flag-estelada.png)
 
 **Catalan layout with _tricentenari_ flag**
 
 ```
-$ git clone https://github.com/nadalsol/catalan-mac-keyboard-layout.git
+$ git clone https://github.com/nadalsol/catalan-keyboard-layout-mac.git
 $ cd catalan-mac-keyboard-layout/
 $ sudo cp Catalan\ \(Tricentenari\).* /Library/Keyboard\ Layouts/
 ```
 
-![Tricentenari Flag](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/flag-tricentenari.png)
+![Tricentenari Flag](https://raw.githubusercontent.com/nadalsol/catalan-keyboard-layout-mac/master/flag-tricentenari.png)
 
 ### Modify the layout
 
