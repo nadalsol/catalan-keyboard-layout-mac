@@ -1,4 +1,4 @@
-## Catalan Keyboard Layout
+## Catalan Keyboard Layout for Mac
 
 ![Input Sources Menu](https://raw.githubusercontent.com/nadalsol/catalan-mac-keyboard-layout/master/macos-input-sources-menu.png)
 
